@@ -1,9 +1,9 @@
 OVERVIEW: Panoramica
 PERMISSION: Permesso
-#POSITIVE: Positive
-#NEGATIVE: Negative
-#MIXED: Mixed
-#BUNGEE_PERMISSION: Bungee Permission
+POSITIVE: Positivo
+NEGATIVE: Negativo
+MIXED: Misto
+BUNGEE_PERMISSION: Permessi bungee
 PERMISSION_NODES: Nodi del permesso
 PERMISSIONS: Permessi
 DEFAULT_PERMISSIONS: Permessi di default
@@ -30,13 +30,13 @@ PERMISSIONLOG: Log dei Permessi
 EDITING: Modificando
 ADD: Aggiungi
 TIME_FOR: per
-#NONE: None
-#DURATION: Duration
-#COPY: Copy
-#PASSED: Passed
-#FAILED: Failed
-#SOURCE: Source
-#TIME_TILL_REMOVAL: Time till removal:
+NONE: Nessuna
+DURATION: Durata
+COPY: Copia
+PASSED: Superato
+FAILED: Fallito
+SOURCE: Fonte
+TIME_TILL_REMOVAL: Tempo fino alla rimozione:
 COMMAND_INVALID_ARGS: Argomento non valido
 COMMAND_NOTFOUND: Comando non trovato
 COMMAND_HINT_HELP: Digita **/upc** per avere la lista di tutti i comandi
@@ -118,30 +118,30 @@ GUI_PERMEDITOR_NORMAL_RIGHTCLICK: **Tasto destro** per **selezionare**
 GUI_PERMEDITOR_NORMAL_PRESSQ: **Premi Q** per eliminare
 GUI_PERMEDITOR_ADDPERMISSION_TITLE: Aggiungi un permesso
 GUI_PERMEDITOR_PLUGIN_ACTION: Clicca per vedere i permessi di **%1**
-#GUI_PERMEDITOR_BUNGEEINDICATOR: This is a **BungeeCord** Permission
-#GUI_PERMEDITOR_AVAILABILITY_ALLSERVERS: Available on **all** Servers
-#GUI_PERMEDITOR_AVAILABILITY_INWORLD: in the World **%1**
-#GUI_PERMEDITOR_AVAILABILITY_APPLICABLEIN: Permission applicable in %1
-#GUI_PERMEDITOR_AVAILABILITY_ONLYTHISSERVER: Only available on **this** Server
-#GUI_PERMEDITOR_AVAILABILITY_SPECIFICSERVER: Available on **%1** Server
-#GUI_PERMEDITOR_ADD_LEFTACTION: **Left Click** to add Permission
-#GUI_PERMEDITOR_ADD_RIGHTACTION: **Right Click** to add **Bungee Permission**
-#GUI_PERMEDITOR_ADD_TYPEIN: Type in a permission
-#GUI_PERMEDITOR_EDIT_TITLE: Edit %1
-#GUI_PERMEDITOR_EDIT_ACTION: Click to edit **%1**
-#GUI_PERMVIEW_EDITPERM_TITLE: Edit Permission
-#GUI_PERMVIEW_EDITPERM_ACTION: Click to edit Permission
-#GUI_PERMVIEW_EDITPERM_TYPEIN: Type in the new permission
-#GUI_PERMVIEW_COPY_ACTION: Click to select a **target**
-#GUI_PERMVIEW_NOMULTINAMEEDIT: you cannot rename multiple permissions at once
-#GUI_STORAGESETTINGS_TITLE: Storage Settings
-#GUI_STORAGESETTINGS_TYPEINWORLD: Type in a world name
-#GUI_STORAGESETTINGS_NOWORLD_ACTION: Click to **restrict** this group to a specific World
-#GUI_STORAGESETTINGS_WORLD_ACTION: Click to allow this group in all Worlds
-#GUI_STORAGESETTINGS_NOSERVER_ACTION: Click to **restrict** this group to this Server
-#GUI_STORAGESETTINGS_SERVER_ACTION: Click to allow this group on all Servers
-#GUI_STORAGESETTINGS_RESTRICTED_TO: Restricted to **%1**
-#GUI_PASTESELECTION_PASTE_ACTION: Click to **paste** %1
+GUI_PERMEDITOR_BUNGEEINDICATOR: Questo è un permesso **BungeeCord**
+GUI_PERMEDITOR_AVAILABILITY_ALLSERVERS: Disponibile in **tutti** i Servers
+GUI_PERMEDITOR_AVAILABILITY_INWORLD: nel mondo **%1**
+GUI_PERMEDITOR_AVAILABILITY_APPLICABLEIN: Permesso applicabile in %1
+GUI_PERMEDITOR_AVAILABILITY_ONLYTHISSERVER: Disponibili solo su **questo** Server
+GUI_PERMEDITOR_AVAILABILITY_SPECIFICSERVER: Disponibile sul Server **%1**
+GUI_PERMEDITOR_ADD_LEFTACTION: **Tasto Sinistro** per aggiungere un permesso
+GUI_PERMEDITOR_ADD_RIGHTACTION: **Tasto Destro** per aggiungere un **Permesso BungeeCord**
+GUI_PERMEDITOR_ADD_TYPEIN: Digita un permesso
+GUI_PERMEDITOR_EDIT_TITLE: Modifica %1
+GUI_PERMEDITOR_EDIT_ACTION: Clicca per modificare **%1**
+GUI_PERMVIEW_EDITPERM_TITLE: Modifica il Permesso
+GUI_PERMVIEW_EDITPERM_ACTION: Clicca per Modificare il Permesso
+GUI_PERMVIEW_EDITPERM_TYPEIN: Digita un nuovo permesso
+GUI_PERMVIEW_COPY_ACTION: Clicca per selezionare un **target**
+GUI_PERMVIEW_NOMULTINAMEEDIT: Non puoi modificare più permessi alla volta
+GUI_STORAGESETTINGS_TITLE: Impostazioni di archiviazione
+GUI_STORAGESETTINGS_TYPEINWORLD: Digita il nome di un mondo
+GUI_STORAGESETTINGS_NOWORLD_ACTION: Clicca per **limitare** questo gruppo per un Mondo specifico
+GUI_STORAGESETTINGS_WORLD_ACTION: Clicca per abilitare questo gruppo in tutti i Mondi
+GUI_STORAGESETTINGS_NOSERVER_ACTION: Clicca per **limitare** questo gruppo su questo Server
+GUI_STORAGESETTINGS_SERVER_ACTION: Clicca per abilitare questo gruppo in tutti i Server
+GUI_STORAGESETTINGS_RESTRICTED_TO: Limitato a **%1**
+GUI_PASTESELECTION_PASTE_ACTION: Clicca per **incollare** %1
 GUI_PERMEDITOR_MANUAL_TITLE: Digita in Chat
 GUI_PERMEDITOR_MANUAL_ACTION: **Clicca** per digitare il permesso
 GUI_PERMEDITOR_MANUAL_DIALOG_SUBTITLE: Digita un permesso
